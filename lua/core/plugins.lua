@@ -38,6 +38,7 @@ return require('packer').startup(function(use)
     tag = '0.1.5',
     requrie = { {'nvim-lua/plenary.nvim'} }
   }
+  use 'wakatime/vim-wakatime'
   -- My plugins here
   -- use 'foo1/bar1.nvim'
   -- use 'foo2/bar2.nvim'

@@ -148,6 +148,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/Users/benn/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
+  },
+  ["vim-wakatime"] = {
+    loaded = true,
+    path = "/Users/benn/.local/share/nvim/site/pack/packer/start/vim-wakatime",
+    url = "https://github.com/wakatime/vim-wakatime"
   }
 }
 
